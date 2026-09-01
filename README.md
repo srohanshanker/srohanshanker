@@ -36,7 +36,7 @@ These repositories contain independently recreated and anonymized demonstrations
 
 A recurring scheduling workflow was redesigned to consolidate multiple district selections into a single recurring schedule, provide complete schedule editing, and establish a clearer separation between schedule configuration and execution-job lifecycle.
 
-👉 **[View Case Study](https://github.com/YOUR-GITHUB-USERNAME/enterprise-dotnet-scheduling-architecture)**
+👉 **[View Case Study](https://github.com/srohanshanker/enterprise-dotnet-scheduling-architecture)**
 
 ---
 
@@ -46,7 +46,7 @@ A recurring scheduling workflow was redesigned to consolidate multiple district 
 
 Root-caused a silent persistence defect where overlapping student prescription/referral date ranges could bypass existing validation. The investigation traced the issue through asynchronous execution and persistence behavior and resulted in a reliable, audit-aware fix.
 
-👉 **[View Case Study](https://github.com/YOUR-GITHUB-USERNAME/dotnet-data-integrity-debugging)**
+👉 **[View Case Study](https://github.com/srohanshanker/dotnet-data-integrity-debugging)**
 
 ---
 
@@ -56,7 +56,7 @@ Root-caused a silent persistence defect where overlapping student prescription/r
 
 Demonstrates remediation of accessibility issues across enterprise application modules, including unlabeled controls, broken ARIA references, table headers, visually-hidden content and contrast findings.
 
-👉 **[View Case Study](https://github.com/YOUR-GITHUB-USERNAME/wcag-accessibility-remediation)**
+👉 **[View Case Study](https://github.com/srohanshanker/wcag-accessibility-remediation)**
 
 ---
 
@@ -66,7 +66,7 @@ Demonstrates remediation of accessibility issues across enterprise application m
 
 Demonstrates a human-in-the-loop engineering workflow using AI assistance to accelerate repository investigation, debugging, implementation, refactoring and code review while retaining engineering ownership of the final solution.
 
-👉 **[View Case Study](https://github.com/YOUR-GITHUB-USERNAME/ai-assisted-dotnet-engineering)**
+👉 **[View Case Study](https://github.com/srohanshanker/ai-assisted-dotnet-engineering)**
 
 ---
 
