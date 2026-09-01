@@ -4,7 +4,7 @@
 
 **15+ years of experience | Enterprise Applications | Production Debugging | AI-Assisted Engineering**
 
-I am a senior software engineer focused on building, maintaining, debugging and improving enterprise applications using **C#, .NET, ASP.NET MVC, .NET Core, Web API and SQL Server**.
+I am a senior software engineer focused on building, maintaining, debugging and improving enterprise applications using **C#, .NET, ASP.NET MVC, .NET Core, Web API, TypeScript, JavaScript, Dapper, React, Angular, Flutter, Kendo UI and SQL Server**.
 
 My strongest area is working with **existing applications and difficult production problems** — understanding unfamiliar codebases, tracing issues across application and data layers, identifying root causes and implementing reliable fixes.
 
@@ -17,7 +17,7 @@ I also use **Claude Code** as an AI-assisted engineering tool for repository inv
 - 💻 C# / .NET Development
 - 🔧 Production Debugging & Root-Cause Analysis
 - 🛠️ Existing Application Maintenance
-- 🚀 ASP.NET MVC / .NET Core / Web API
+- 🚀 ASP.NET MVC / .NET Core / Web API / Dapper / TypeScript / JavaScript / React / Angular / Flutter, Kendo UI
 - 🗄️ SQL Server / Entity Framework / LINQ
 - 🔍 Code Review & Refactoring
 - ⏱️ Quartz.NET / Background Job & Scheduling Workflows
@@ -32,17 +32,17 @@ These repositories contain independently recreated and anonymized demonstrations
 
 ### 01 — Enterprise .NET Scheduling Architecture
 
-**Focus:** ASP.NET MVC, C#, Quartz.NET, Entity Framework, LINQ, SQL Server
+**Focus:** ASP.NET MVC, C#, Quartz.NET, Entity Framework, LINQ, SQL Server, Kendo UI, Dapper, TypeScript, JavaScript, jQuery
 
 A recurring scheduling workflow was redesigned to consolidate multiple district selections into a single recurring schedule, provide complete schedule editing, and establish a clearer separation between schedule configuration and execution-job lifecycle.
 
-👉 **[View Case Study](https://github.com/srohanshanker/enterprise-dotnet-scheduling-architecture)**
+👉 **[View Case Study](https://github.com/srohanshanker/dotnet-scheduling-architecture)**
 
 ---
 
 ### 02 — .NET Data Integrity Debugging
 
-**Focus:** C#, async/await, Entity Framework, SQL Server, data integrity
+**Focus:** C#, async/await, Entity Framework, LINQ, SQL Server, data integrity, TypeScript, JavaScript, jQuery
 
 Root-caused a silent persistence defect where overlapping student prescription/referral date ranges could bypass existing validation. The investigation traced the issue through asynchronous execution and persistence behavior and resulted in a reliable, audit-aware fix.
 
@@ -52,7 +52,7 @@ Root-caused a silent persistence defect where overlapping student prescription/r
 
 ### 03 — WCAG Accessibility Remediation
 
-**Focus:** ASP.NET MVC, Razor, Kendo UI, ARIA, WCAG, WAVE
+**Focus:** ASP.NET MVC, Razor, Kendo UI, ARIA, WCAG, WAVE, TypeScript, JavaScript, jQuery
 
 Demonstrates remediation of accessibility issues across enterprise application modules, including unlabeled controls, broken ARIA references, table headers, visually-hidden content and contrast findings.
 
@@ -76,7 +76,7 @@ Demonstrates a human-in-the-loop engineering workflow using AI assistance to acc
 |---|---|
 | **Backend** | C#, .NET, .NET Core, ASP.NET MVC, Web API |
 | **Data** | SQL Server, Entity Framework, LINQ, Dapper |
-| **Frontend** | Razor, Kendo UI, JavaScript, TypeScript, jQuery, HTML5, CSS |
+| **Frontend** | Razor, Kendo UI, JavaScript, TypeScript, jQuery, React, Angular, Flutter, HTML5, CSS |
 | **Scheduling** | Quartz.NET, recurring jobs, background processing |
 | **Engineering** | Debugging, Root-Cause Analysis, Code Review, Refactoring, Performance Optimization |
 | **Accessibility** | WCAG, ARIA, WAVE |
